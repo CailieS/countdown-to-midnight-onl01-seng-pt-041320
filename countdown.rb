@@ -1,5 +1,5 @@
 #write your code here
-def countdown(10)
+def countdown(num)
   x = 10 
   while x < 0
   puts "#{x} SECONDS!"
